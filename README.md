@@ -14,8 +14,7 @@ Hello! I am a JEE Main qualified student shifting my analytical and problem-solv
 * **Key Concept Learned:** Learned how to inspect web page source codes to find hidden data, and how to use the Linux `grep` command to instantly sift through massive log files for specific string patterns (flags).
 
 ### 2. TryHackMe Framework
-* **Rooms Completed:** Currently working through the "Pre-Security" and "Introduction to Cyber Security" learning pathways.
-* **Key Concept Learned:** Mastered how a browser securely talks to a server using HTTP/HTTPS requests.
+* **Rooms Completed:** Completed the "Pre-Security" and "Introduction to Cyber Security" learning pathways.
 
 ## 🎯 Why This Program?
 My preparation for JEE Main trained me to break down massive, complex systems (in Physics and Math) into logical components. Cybersecurity requires that exact same structural mindset. I am using these weeks leading up to the July 5th exam to build a relentless foundation so I can hit the ground running at IIT Kanpur.
