@@ -15,6 +15,7 @@ Hello! I am a JEE Main qualified student shifting my analytical and problem-solv
 
 ### 2. TryHackMe Framework
 * **Rooms Completed:** Completed the "Pre-Security" and "Introduction to Cyber Security" learning pathways.
+* completed a lot of levels
 
 ## 🎯 Why This Program?
 My preparation for JEE Main trained me to break down massive, complex systems (in Physics and Math) into logical components. Cybersecurity requires that exact same structural mindset. I am using these weeks leading up to the July 5th exam to build a relentless foundation so I can hit the ground running at IIT Kanpur.
